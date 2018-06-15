@@ -1,0 +1,10 @@
+{
+    "name": "mailer",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": "Otis Chiemezie",
+    "email": "otishenry@live.com",
+    "productName": "Batch Mailer",
+    "description": "send email in batches",
+    "main": "electron-main.js"
+}

@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+.m-m {
+    margin: 4rem;
+}
+
+.m-t-m {
+    margin-top: 4rem;
+}
